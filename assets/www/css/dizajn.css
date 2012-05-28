@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* Milos Bovan, FONIS Android app */
+
+body {
+	height:100%; }
+
+#logo {
+	margin:auto;
+	padding:3px;
+	display:block;
+
+}

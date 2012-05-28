@@ -1,0 +1,65 @@
+﻿@charset "UTF-8";
+.twitterFeed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	margin: 0;
+	padding: 0;
+}
+.twitterFeed a {
+	color: #444;
+	font-weight: bold;
+}
+.twitterFeed a:hover, .twitterHeader a, .tweetName a {
+	text-decoration: none;
+}
+.twitterFeed a img {
+	border: none;
+	border: 1px solid #F7C942;
+	padding: 2px;
+}
+.twitterFeed img {
+	float: left;
+	margin: 0 1em 1em 0;
+}
+.twitterHeader {
+	padding: 0;
+}
+.twitterHeader span {
+	font-weight: bold;
+	font-size: 2.2em;
+}
+.twitterBody {
+	clear: left;
+	margin: 0;
+	padding: 0;
+}
+.twitterBody ul {
+	list-style: none;
+}
+.twitterBody ul, .twitterRow, .twitterRow h4 {
+	margin: 0;
+	padding: 0;
+}
+.twitterRow {
+	padding: 0.5em;
+}
+.twitterRow p {
+	margin-left: 60px;
+}
+.tweetName a, .tweetTime {
+	font-weight: bold;
+	color: #444;
+}
+.tweetName {
+	float: left;
+	font-size: 1.2em;
+}
+.tweetTime {
+	text-align: right;
+	margin-right: 5px;
+}
+.even {
+	background-color: #FFEF97;
+	border-top: 1px solid #F7C942;
+	border-bottom: 1px solid #F7C942;
+}

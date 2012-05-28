@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "rs.fonis.app"
+    version   = "1.0">
+
+<name>Fonis App</name>
+
+<description>
+FONIS Android aplikacija</description>
+
+<author href="http://www.twitter.com/fantastic91" email="fantastic91@gmail.com">
+Milos Bovan
+</author>
+
+</widget>
