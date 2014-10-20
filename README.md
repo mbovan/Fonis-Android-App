@@ -1,4 +1,4 @@
 Fonis-Android-App
 =================
 
-Android aplikacija za Fonis.rs
+Android application for Fonis.rs
